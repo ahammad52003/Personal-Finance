@@ -9,8 +9,11 @@ Introduction:
 Managing personal finances is a crucial aspect of maintaining financial stability and achieving your financial goals. This data analytics project aims to provide a comprehensive and user-friendly solution for individuals seeking to monitor and analyze their personal income, expenses, savings, and overall financial well-being. This Power BI-based Personal Finance Dashboard offers insightful visualizations, key performance indicators (KPIs), and trend analysis to facilitate informed financial decision-making.
 
 ![Uploading Personal Finance_Page_2.jpg…]()
+
 ![Uploading Personal Finance_Page_3.jpg…]()
+
 ![Uploading Personal Finance_Page_4.jpg…]()
+
 ![Uploading Personal Finance_Page_5.jpg…]()
 
 
